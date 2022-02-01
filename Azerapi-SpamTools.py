@@ -83,10 +83,6 @@ while running:
             time.sleep(5) #5 second pause
             i = 0
             os.system('cls')
-            
-            choice2 = input("enter word or phrase you want to spam: ")
-            count = int(input("how many times do you want to spam?(warning don't spam over 50 times!)"))
-            print("You have 5 seconds place your cursor in the desired chat box")
             time.sleep(5) #5 second pause
             for i in range(count):
                 pyautogui.typewrite(choice3)
@@ -109,9 +105,6 @@ while running:
             i = 0
             os.system('cls')
             
-            choice2 = input("enter word or phrase you want to spam: ")
-            count = int(input("how many times do you want to spam?(warning don't spam over 50 times!)"))
-            print("You have 5 seconds place your cursor in the desired chat box")
             time.sleep(5) #5 second pause
             for i in range(count):
                 pyautogui.typewrite(f"[Discord SpamBot]:{choice3}")
