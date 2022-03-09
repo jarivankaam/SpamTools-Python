@@ -17,7 +17,7 @@
  
  
  
- Cheers,
+ Cheers!,
  Jari
  
  
