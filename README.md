@@ -8,9 +8,17 @@
  
  ## how to run
  To run this python script you need to open up a terminal or cmd of your choosing(for windows i reccomend cmder or windows terminal) then typ the following command:
- python path/to/file/azerapispaamtools.py
+ python path/to/file/azerapispamtools.py
  
  and it will load up in the cmd window.
+ 
+ # Important:
+ before using AzerApi spamtools make sure to set a password in the config file, otherwise you won't be able to use the script to its full capabilty
+ 
+ 
+ 
+ Cheers,
+ Jari
  
  
 
