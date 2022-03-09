@@ -1,4 +1,4 @@
-# spambot Python
+# AzerApi python spamtool
  This python program contains a spambot to annoy people(scammers,, your friends and the lot)
  ands features a automated spam message function for chatsites that use the esc key to skip your chat partner.
  As i've updated the script i've come to the conclusion that it needed a bit of security, so i made it that you can only spam an unlimited amount of times if you use a password.
