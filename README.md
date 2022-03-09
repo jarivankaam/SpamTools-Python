@@ -8,7 +8,7 @@
  
  ## how to run
  To run this python script you need to open up a terminal or cmd of your choosing(for windows i reccomend cmder or windows terminal) then typ the following command:
- python path/to/file/azerapispamtools.py
+ python path/to/file/azerapi-spamtools.py
  
  and it will load up in the cmd window.
  
